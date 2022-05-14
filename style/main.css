@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+.card{
+    background-color: #333;
+    color: wheat;
+    font-weight: bold;
+}
+
+
+i{
+    float: right;
+    font-size: 20px;
+    color: red;
+}
